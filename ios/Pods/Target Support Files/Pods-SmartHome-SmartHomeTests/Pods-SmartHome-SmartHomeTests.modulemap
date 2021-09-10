@@ -1,0 +1,6 @@
+module Pods_SmartHome_SmartHomeTests {
+  umbrella header "Pods-SmartHome-SmartHomeTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

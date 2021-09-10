@@ -1,0 +1,4 @@
+#Sun Jan 10 18:06:24 EET 2021
+base.0=/Users/berkaypacal/Desktop/react-projects/SmartHome/android/app/build/intermediates/dex/release/mergeDexRelease/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
